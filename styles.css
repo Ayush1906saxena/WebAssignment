@@ -1,0 +1,90 @@
+.navbar-header {
+  float: left;
+  padding: 1px;
+  text-align: center;
+  width: 100%;
+  font-size: 3rem;
+  font-weight: 500;
+}
+.navbar-brand {
+  float: none;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  background-size: cover;
+}
+
+.top-right {
+  padding-right: 3rem;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-weight: bold;
+  font-size: 250%;
+}
+
+.top-left {
+  padding-left: 3rem;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.bottom-right {
+  padding-right: 3rem;
+  font-size: 150%;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.bottom-left {
+  padding-left: 3rem;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-weight: bold;
+  font-size: 250%;
+}
+
+.bottom-left2 {
+  padding-left: 3rem;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-weight: bold;
+  font-size: 150%;
+  text-align: left;
+}
+
+.descriptionA4 {
+  padding: 5rem;
+  text-align: center;
+  font-size: larger;
+}
+
+.descriptionS5 {
+  padding: 5rem;
+  text-align: center;
+  font-size: larger;
+}
+
+.S5-description {
+  padding: 5rem;
+  text-align: center;
+}
+
+.Q8-description {
+  padding: 5rem;
+  text-align: center;
+}
+
+.Contents {
+  padding: 5rem;
+}
+
+.footer{
+    padding: 3rem;
+}
